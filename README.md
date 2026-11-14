@@ -54,22 +54,22 @@ Lab7Web_PHP/
 ## 6. Dokumentasi Hasil Eksekusi (Screenshot)
 
 ### Latihan 1: Menjalankan PHP (`index.php`)
-![Output Latihan 1](screenshots/latihan1.png)
+![Output Latihan 1](screenshot/latihan1.png)
 
 ### Latihan 2: Variabel, Operator, dan Percabangan (`latihan2.php`)
-![Output Latihan 2](screenshots/latihan2.png)
+![Output Latihan 2](screenshot/latihan2.png)
 
 ### Latihan 3: Perulangan dan Array (`latihan3.php`)
-![Output Latihan 3](screenshots/latihan3.png)
+![Output Latihan 3](screenshot/latihan3.png)
 
 ### Latihan 4: Membuat Function (`latihan4.php`)
-![Output Latihan 4](screenshots/latihan4.png)
+![Output Latihan 4](screenshot/latihan4.png)
 
 ### Latihan 5: Memproses Form dengan GET (`latihan5.php`)
-![Output Latihan 5](screenshots/latihan5.png)
+![Output Latihan 5](screenshot/latihan5.png)
 
 ### Latihan 6: Memproses Form dengan POST (`latihan6.php`)
-![Output Latihan 6](screenshots/latihan6.png)
+![Output Latihan 6](screenshot/latihan6.png)
 
 ### Latihan 7: Pengolahan Data Sederhana (`latihan7.php`)
-![Output Latihan 7](screenshots/latihan7.png)
+![Output Latihan 7](screenshot/latihan7.png)
